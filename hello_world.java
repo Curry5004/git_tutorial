@@ -16,10 +16,12 @@ public class hello_world {
 		return a*b;
 	}
 	public static int div(int a, int b) {
-
 		//주석주석
 		return a/b; //주석따리주석따
-
+	}
+	public static int plus2(int a, int b) {
+		//주석주석
+		return a+b+2; //주석따리주석따
 	}
 	
 }

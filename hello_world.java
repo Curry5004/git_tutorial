@@ -9,7 +9,7 @@ public class hello_world {
 	}
 	public static int plus(int a, int b) {
 		return a+b;
-	}
+	}z
 	public static int sub(int a, int b) {
 		return a-b;
 	}

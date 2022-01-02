@@ -15,5 +15,9 @@ public class hello_world {
 	public static int mul(int a, int b) {
 		return a*b;
 	}
+	public static int div(int a, int b) {
+		//주석주석
+		return a/b; //주석따리주석따
+	}
 	
 }
